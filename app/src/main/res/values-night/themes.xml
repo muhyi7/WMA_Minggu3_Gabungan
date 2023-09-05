@@ -13,4 +13,10 @@
         <item name="theme">@style/Base.Theme.WMA_Minggu3_Gabungan</item>
         <item name="popupTheme">@style/ThemeOverlay.AppCompat</item>
     </style>
+
+    <style name="ToolbarMuhyi2" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="theme">@style/Base.Theme.WMA_Minggu3_Gabungan</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat</item>
+    </style>
 </resources>
